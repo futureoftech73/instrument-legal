@@ -13,7 +13,8 @@ so that nobody else ever has to see your record.
 ## Things people ask
 
 **How do I log a session?**
-Tap "Log a session" on the Today screen and type or paste it in plain text, the
+Tap "Add the session text" on the Today screen and type or paste it in plain
+text, the
 way you would write it in a notebook. Something like `squat 3x5 100kg rpe 8`
 works. The app shows you how it read every line before anything is saved, so you
 can see whether it understood you.
