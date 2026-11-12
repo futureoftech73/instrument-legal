@@ -24,9 +24,17 @@ has to be one. Log a session and the cards appear at the bottom of the same
 sheet.
 
 **Why does the recovery part say nothing?**
-It needs seven days of your own data before it says anything at all. It compares
-you against your own baseline rather than against a population, so until there
-is a baseline there is nothing honest to say. That wait is deliberate.
+Two reasons, and the first one is permanent for some phones. Sleep, heart rate
+variability, resting heart rate and breathing rate do not exist on an iPhone
+alone, so without a watch or a band that half of the app stays silent and
+everything else works as described.
+
+With one, it still waits. It needs seven days of your own figures inside a two
+week window, so from a standing start it is about a fortnight before it says
+anything. It compares you against your own baseline rather than against a
+population, and until there is a baseline there is nothing honest to say. That
+wait is deliberate. If you already had a watch before installing, it reads the
+history Health has kept and can speak on the first day.
 
 **Health is connected but nothing arrived.**
 iOS grants Health permission one data type at a time, and it is easy to grant
@@ -38,10 +46,14 @@ Health has delivered nothing.
 Tap Restore on the Today screen. The unlock belongs to your Apple ID, so it
 restores on any device signed in to the same one.
 
-**What is the difference between the monthly and the one-time price?**
-Nothing, except how you pay. Both unlock exactly the same thing. The monthly one
-can be cancelled whenever you like, in Settings under your Apple ID,
-Subscriptions. The one-time one is yours for good.
+**What is the difference between the three prices?**
+Nothing, except how you pay. All three unlock exactly the same thing. The
+monthly plan comes with the first week free and renews until you stop it; the
+yearly plan renews once a year and works out at about half the monthly rate;
+the one payment is yours for good and never renews. Either subscription can be
+cancelled whenever you like, in Settings under your Apple ID, Subscriptions.
+Because the two subscriptions are in one group you can move between them
+without being charged twice.
 
 **How do I cancel a subscription?**
 In iOS Settings, tap your name at the top, then Subscriptions. That is Apple's
@@ -60,8 +72,9 @@ Refunds are handled entirely by Apple, at reportaproblem.apple.com. We cannot
 issue one and are not told when you ask for one.
 
 **Is my data sent anywhere?**
-No. The only network connection the app makes is to Apple's App Store to handle
-a purchase. See the privacy policy.
+No. The app makes two network connections and neither carries anything about
+you: one to Apple's App Store to handle a purchase, and one, after a report has
+opened, asking Apple to show its own rating alert. See the privacy policy.
 
 ## Reporting something wrong
 
