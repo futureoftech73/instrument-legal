@@ -1,6 +1,6 @@
 # Privacy policy for Instrument
 
-Last updated 6 November 2026.
+Last updated 12 November 2026.
 
 ## The short version
 
@@ -42,13 +42,19 @@ It asks so those figures are measured rather than typed in by you.
 
 ## What leaves your device
 
-One thing: a purchase. When you buy the unlock or subscribe, the app talks to
-Apple's App Store through StoreKit so Apple can take the payment and tell the
-app whether you are entitled. That connection is between you and Apple, under
-Apple's own privacy policy. The app never sees your payment details.
+Two things, and only one of them carries anything at all about you.
 
-Apart from that, the app makes no network connection of any kind. It has no
-analytics, no crash reporting, no advertising identifier and no third-party
+A purchase. When you buy the unlock or subscribe, the app talks to Apple's App
+Store through StoreKit so Apple can take the payment and tell the app whether
+you are entitled. That connection is between you and Apple, under Apple's own
+privacy policy. The app never sees your payment details.
+
+A request that Apple show its rating alert. Once, after a report has opened,
+and never again. It carries nothing about you, it reads nothing back, and
+whether the alert appears at all is Apple's decision, not the app's.
+
+Apart from those two, the app makes no network connection of any kind. It has
+no analytics, no crash reporting, no advertising identifier and no third-party
 software development kit of any sort.
 
 ## What we collect
